@@ -1,6 +1,6 @@
 # Discrete-Optimization
-  Require Gurobi Python API (Academic Licenses are free)
-  Knapsack 50/60
+  Require Gurobi Python API (Academic Licenses are free) \n
+  Knapsack 50/60 \n
   Graph Coloring  54/60
   Traveling Salesman Problem 54/60
   Facility Location 80/80
